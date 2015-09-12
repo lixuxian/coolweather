@@ -1,4 +1,4 @@
-package com.coolweather.app.model;
+package com.xiguaweather.app.model;
 
 public class County {
 
